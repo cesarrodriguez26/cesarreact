@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "Zapatillas adidas",
+        "model": "Stan Smith",
+        "Price": 100,
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bcfb5f11c9d14b6abaa3af8000d4426a_9366/Zapatilla_Stan_Smith_Blanco_HQ6747_04_standard.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 2,
+        "name": "Zapatillas nike",
+        "model": "Blazer",
+        "Price": 90,
+        "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d56e48ad-e869-40ae-93bf-fb220312e41e/custom-nike-blazer-mid-77-by-you.png",
+        "quanty": 1
+        
+
+    },
+
+    {
+        "id": 3,
+        "name": "Zapatillas puma",
+        "model": "Suede",
+        "Price": 90,
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/389462/01/fnd/EEA/fmt/png/Zapatillas-Suede-Archive-Remastered",
+        "quanty": 1
+    },
+
+    {
+        "id": 4,
+        "name": "Zapatillas nike",
+        "model": "Jordan",
+        "Price": 120,
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5125af7e-5d70-484b-9b6e-6557c73b4b78/air-jordan-1-mid-zapatillas-rmBWXf.png",
+        "quanty": 1
+    }
+
+]
