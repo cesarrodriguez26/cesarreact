@@ -10,6 +10,7 @@ const CartTotal = () => {
     return(
      <div className='cartTotal'>
         <h3>Total a pagar: {total} $</h3>
+        <button>Pagar</button>
     </div>
     );
   };

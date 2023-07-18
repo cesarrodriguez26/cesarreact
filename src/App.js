@@ -3,6 +3,7 @@ import CartContent from "./componets/CartContent/CartContent";
 import DataProvider from './componets/Context/DataContext';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
+
 function App() {
   return (
     <DataProvider>

@@ -27,3 +27,16 @@
 .cart-delete-button {
     cursor: pointer;
 }
+
+button {
+    background-color: black;
+    color: #fff;
+    padding: 20px 30px;
+    border: none;
+    cursor: pointer;
+   
+}
+
+button:hover {
+    background-color: gray;
+  }
