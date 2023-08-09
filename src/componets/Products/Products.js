@@ -11,7 +11,7 @@ return data.map((Product)=> {
             <img src={Product.img} alt='img-product-card' />
             <h3>{Product.name}</h3>
             <h4>{Product.Price}$</h4>
-            <button onClick={() => buyProducts(Product)}>Comprar</button>
+            <button onClick={() => buyProducts(Product)}>Añadir al Carrito</button>
             </div>
     );
   });
